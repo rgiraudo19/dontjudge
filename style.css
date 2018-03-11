@@ -7,7 +7,7 @@ body {
 body {
     text-align: center;
     font-family: "Helvetica";
-    color: white;
+    color: #42f4d9;
     background: black;
     background: #009933;
     background-position: left top;
@@ -34,7 +34,7 @@ body {
   
 #returnbtn {
   border-radius: 14px;
-  background-color: #32a8db;
+  background-color: #e5ca67;
   font-size: 20px;
   color: white;
   padding: 10px 20px;
